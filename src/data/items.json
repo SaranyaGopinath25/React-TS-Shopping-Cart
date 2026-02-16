@@ -1,0 +1,46 @@
+
+[
+    {
+        "id" : 1,
+        "name" : "Books",
+        "price" : 100,
+        "imageURL" : "/images/books.jpeg"
+    },
+    {
+        "id" : 2,
+        "name" : "Laptops",
+        "price" : 10000,
+        "imageURL" : "/images/laptops.jpeg"
+    },
+    {
+        "id" : 3,
+        "name" : "Shoes",
+        "price" : 200,
+        "imageURL" : "/images/shoes.jpeg"
+    },
+    {
+        "id" : 4,
+        "name" : "plants",
+        "price" : 150,
+        "imageURL" : "/images/plants.jpeg"
+    },
+    {
+        "id" : 5,
+        "name" : "Watches",
+        "price" : 700,
+        "imageURL" : "/images/watches.jpeg"
+    },
+    {
+        "id" : 6,
+        "name" : "Hoodies",
+        "price" : 200,
+        "imageURL" : "/images/hoodie.jpeg"
+    },
+    {
+        "id" : 7,
+        "name" : "Mobiles",
+        "price" : 1000,
+        "imageURL" : "/images/mobiles.jpeg"
+    }
+    
+]
